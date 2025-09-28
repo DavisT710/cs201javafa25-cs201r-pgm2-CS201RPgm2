@@ -1,3 +1,7 @@
+//Tanner Davis
+// 9/22/2025
+// CS201-R
+// Program 2
 import java.util.Scanner;
 import java.util.Random;
 
